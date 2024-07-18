@@ -1,0 +1,36 @@
+{
+	"ADS": {
+		 "rewarde_type": "applovin",
+		"native_type": "applovin",
+		"inter_type": "applovin",
+		"banner_type": "applovin",
+		
+     "cpaBuild": "https://vnheats.com/a76989",
+         
+		"unity_id": "98765",
+
+ 
+		"ironsource_id": "123467",
+
+	 
+
+		"banner_applovin": "e5acc64b1bc06699",
+		"native_applovin": "1fe4cbce24076f42",
+		"interstitial_applovin": "577225db613b9c4d",
+		"rewarde_applovin": "5c501d8ce3a36ffd",
+
+		"interstitial_admob": "x",
+		"banner_admob": "x",
+		"native_admob": "x",
+		"rewarde_admob": "x",
+
+		 
+		
+		"facebook_interstitial": "x",
+		"facebook_native": "x",
+		"facebook_banner": "x",
+		"facebook_rewarde": "x"
+
+		 
+	}  
+   }
